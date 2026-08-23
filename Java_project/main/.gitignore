@@ -1,0 +1,20 @@
+# Java compiled files
+*.class
+
+# VS Code settings
+.vscode/
+
+# IntelliJ / Eclipse
+.idea/
+*.iml
+
+# Build folders
+out/
+bin/
+
+# Logs
+*.log
+
+# Database / config (IMPORTANT)
+config.properties
+*.properties
